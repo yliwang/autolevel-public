@@ -5,3 +5,4 @@ This image adaptive gray scale transform is called autolevel, which one can find
 The purpose of this project is to implement autolevel. and gives processing result of a sample image, lena.bmp
 One should read in Lenna.jpg and convert it to grayscale (for this, one can use readimg.py listed in ppt). Implement the proto-type function: GenAutolevelMapping, and then implement the proto-type function ImageAutolevel, In the prototype function Main, one should accomplish the whole task. proto-type functions are already provided in the autolevel.py script, for which, one should not modify any of the first two prototype functions presented above!
 upload code and resulting image to your repository, the resulted image should be named to aLenna.bmp ( a file with not exact the same name will not be accepted! )
+Also note, never ever modify the name and parameters of the prototype functions provided in the py files
